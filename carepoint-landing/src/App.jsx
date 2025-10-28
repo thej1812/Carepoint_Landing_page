@@ -124,8 +124,8 @@ export default function CarePoint() {
              <div className="inline-flex items-center gap-2 px-4 py-2 mb-5 text-sm">
   <Logo />
   <span
-    className="relative font-semibold text-transparent bg-clip-text bg-gradient-to-r from-black/40 via-black to-white/40 
-    bg-[length:200%_auto] animate-[shine_3s_linear_infinite]"
+    className="relative font-semibold text-black
+  "
   >
     Your health, your choice
   </span>
@@ -220,7 +220,7 @@ export default function CarePoint() {
               </div>
             </div>
 
-            <div className="hidden lg:block relative top-[20px] mt-10">
+            <div className="hidden lg:block relative top-5 mt-10">
               <img
                 src="https://www.transparentpng.com/thumb/doctor/smiling-handsome-doctor-free-png--3kFuBJ.png"
                 alt="Doctor"

@@ -172,7 +172,7 @@ export default function CarePoint() {
 
 
 
-              <div className="grid grid-cols-1  sm:grid-cols-3 gap-2 sm:w-[480px] w-80 sm:ml-0 ml-10">
+              <div className="grid grid-cols-1  sm:grid-cols-3 gap-2 sm:w-[480px] w-80 sm:ml-0 ml-2">
            
                 <div className="bg-white/95 p-4 rounded-[14px] text-gray-600 h-40 flex flex-col justify-between">
                   <h3 className="text-sm md:mb-2.5 md:text-start text-center">Latest visited doctors</h3>
